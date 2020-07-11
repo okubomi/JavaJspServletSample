@@ -22,12 +22,12 @@ public class ConnectionManager {
 	/**
 	 * ユーザ
 	 */
-	private final static String USER = "embexU";
+	private final static String USER = "appUser7291";
 
 	/**
 	 * パスワード
 	 */
-	private final static String PASSWORD = "embexP";
+	private final static String PASSWORD = "appPass4295";
 
 	/**
 	 * データベースへの接続を取得して返します。
